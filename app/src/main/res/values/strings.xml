@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--음원 관련-->
+    <string name = "duration">%d:%02d</string>
+    <!--Play Count 관련-->
+    <string name="play_count_rank">%d</string>
+    <string name="play_count">%d회</string>
+    <!--플레이리스트 관련-->
+    <string name="playlist_num_music">곡 %d개</string>
+    <!--총 재생 시간 관련-->
+    <string name="playtime">%d:%02d:%02d</string>
+    <!--데이터가 없는 경우와 관련-->
+    <string name="empty_music">곡이 없습니다</string>
+    <string name="empty_playlist">플레이리스트를 생성해 보세요</string>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/add.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/arrow_back.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/bar_chart_24.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/border_now_play.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/border_now_playlist.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/close.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/close_small.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/dark_divider.xml" value="0.259" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/delete.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/divider.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/done.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/music_note_24.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/pause.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/pause_small.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/queue_music_24.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/repeat_one_on-48px.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/shuffle_on.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/skip_previous.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/sort.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/star.xml" value="0.211" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/stroke_round_rectangle.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/tab_background.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/tab_indicator.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/tab_selected.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/tab_unselected.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/drawable/unfold_more.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/font/font.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/activity_music.xml" value="0.264" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/activity_select_music.xml" value="0.4" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/activity_selected_playlist.xml" value="0.1" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/fragment_detailed_playlist.xml" value="0.2" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/fragment_list.xml" value="0.536" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/fragment_main.xml" value="0.2078125" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/fragment_music_list.xml" value="0.2" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/fragment_play_list.xml" value="0.2" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/fragment_playlist.xml" value="0.2" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/fragment_statistics.xml" value="0.2" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/music_item_recycler.xml" value="0.4" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/notification_player.xml" value="0.4" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/notification_player_extended.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/play_count_item_recycler.xml" value="0.536" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/playlist_item_recycler.xml" value="0.264" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/select_music.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/layout/select_music_item_recycler.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/menu/menu_detailed_playlist.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/phsyo/Desktop/Study/Android/MusicPlayer/app/src/main/res/menu/menu_playlist.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

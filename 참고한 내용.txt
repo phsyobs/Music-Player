@@ -1,0 +1,1 @@
+ViewPager2에서 본 Activity와 Fragment의 생명주기 : https://jwsoft91.tistory.com/200
